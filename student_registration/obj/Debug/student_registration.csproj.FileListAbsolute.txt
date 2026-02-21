@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\student_registration\student_registration\bin\Debug\student_registration.exe.config
+C:\Users\Gabriel\Desktop\student_registration\student_registration\bin\Debug\student_registration.exe
+C:\Users\Gabriel\Desktop\student_registration\student_registration\bin\Debug\student_registration.pdb
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.frmStudentRegistration.resources
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.exe
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.pdb
+C:\Users\Gabriel\Desktop\student_registration\student_registration\bin\Debug\db_student_registration.mdf
+C:\Users\Gabriel\Desktop\student_registration\student_registration\bin\Debug\db_student_registration_log.ldf
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.frmStudentRegistrationUpdateDelete.resources
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.frmClassSchedulesUpdateDelete.resources
+C:\Users\Gabriel\Desktop\student_registration\student_registration\obj\Debug\student_registration.frmClassControlUpdateDelete.resources
